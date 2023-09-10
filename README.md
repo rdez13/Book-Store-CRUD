@@ -1,4 +1,4 @@
-# BookStore-CRUD
+# Bookstore-CRUD
 
 Welcome to the React Bookstore CRUD Application with MySQL integration. Built using React, this application facilitates 
 Create, Read, Update, and Delete (CRUD) operations on your books with seamless database connectivity.
